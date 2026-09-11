@@ -1,0 +1,11 @@
+China K12 Teacher Skills
+
+This project contains original adaptations and workflow design informed by:
+
+- Anthropic K12 Teacher Skills, Copyright 2026 Anthropic, PBC and Learning Commons, Apache-2.0.
+  https://github.com/anthropics/k12-teacher-skills
+- flyboat403/k12-skills, an Apache-2.0 community adaptation used as a design reference for China localization.
+  https://github.com/flyboat403/k12-skills
+
+Files substantially derived from an upstream project should keep the upstream copyright/SPDX notice in that file.
+Official curriculum/policy documents are cited as sources; this repository stores concise original summaries rather than redistributing full official documents or textbooks.
